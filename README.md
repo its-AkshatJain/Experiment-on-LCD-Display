@@ -30,9 +30,9 @@ The experiment on LCD displays serves as a gateway to understanding the intricac
    - Ensure the I2C module and the LCD display are properly aligned.
    - Solder the corresponding pins of the I2C module to the designated pins on the back of the LCD display. Typically, this involves connecting VCC to VCC, GND to GND, SDA to SDA, and SCL to SCL.
      
-![Connection-1](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Connection-2.png?raw=true))
-![Connection-2](https://example.com/images/connection_diagram.jpg)
-![Connection-3](https://example.com/images/connection_diagram.jpg)
+![Connection-1](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Connection-2.png)
+![Connection-2](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Connection-1.png)
+![Connection-3](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Connection-3.png)
 
 
 3. Connect the Arduino to your computer using the USB cable.
@@ -40,8 +40,9 @@ The experiment on LCD displays serves as a gateway to understanding the intricac
 **Output Images:**
 [Provide images showing the connections between the components and the output displayed on the LCD at different stages of the program execution.]
 
-![Connection Diagram](https://example.com/images/connection_diagram.jpg)
-![Connection Diagram](https://example.com/images/connection_diagram.jpg)
-![Connection Diagram](https://example.com/images/connection_diagram.jpg)
+![Output-1a](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-1a.png)
+![Output-1b](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-1b.png)
+![Output-2](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-2.png)
+![Output-3](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-3.png)
 
 By assembling these materials and embarking on this journey of exploration, participants will gain practical experience in interfacing LCD displays, mastering the art of data presentation, and unlocking new vistas of creativity and innovation in the realm of electronics and technology.
