@@ -32,11 +32,11 @@ The experiment on LCD displays serves as a gateway to understanding the intricac
      
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-1.png" alt="Connection 1" width="400">
-    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-2.png" alt="Connection 2" width="400">
+    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-3.jpg" alt="Connection 3" width="400">
 </div>
 
 <div style="margin-bottom: 20px;">
-    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-3.jpg" alt="Connection 3" width="800">
+   <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-2.png" alt="Connection 2" width="400">
 </div>
 
 
@@ -45,16 +45,15 @@ The experiment on LCD displays serves as a gateway to understanding the intricac
 **Output Images:**
 [Provide images showing the connections between the components and the output displayed on the LCD at different stages of the program execution.]
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-1a.jpg" alt="Output 1a" width="400">
-    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-1b.jpg" alt="Output 1b" width="400">
-</div>
-
-<div style="margin-bottom: 20px;">
-    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-2.jpg" alt="Output 2" width="800">
-</div>
-
 <div>
-    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-3.jpg" alt="Output 3" width="800">
+      <div style="display: flex; justify-content: space-between;">
+       <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-1a.jpg" alt="Output 1a" width="400">
+       <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-1b.jpg" alt="Output 1b" width="400">
+   </div>
+   <div style="display: flex; justify-content: space-between;">
+       <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-2.jpg" alt="Output 2" width="400">
+       <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-3.jpg" alt="Output 3" width="400">
+   </div>
 </div>
+
 By assembling these materials and embarking on this journey of exploration, participants will gain practical experience in interfacing LCD displays, mastering the art of data presentation, and unlocking new vistas of creativity and innovation in the realm of electronics and technology.
