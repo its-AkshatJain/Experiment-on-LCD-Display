@@ -32,11 +32,11 @@ The experiment on LCD displays serves as a gateway to understanding the intricac
      
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-1.png" alt="Connection 1" width="400">
-    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-3.jpg" alt="Connection 3" width="400">
+    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-2.png" alt="Connection 2" width="400">
 </div>
 
 <div style="margin-bottom: 20px;">
-   <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-2.png" alt="Connection 2" width="400">
+   <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-3.jpg" alt="Connection 3" width="500">
 </div>
 
 
