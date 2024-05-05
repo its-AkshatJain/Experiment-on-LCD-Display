@@ -1,4 +1,4 @@
-![image](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/assets/129594034/f4f0e2e1-61ea-417a-b9b8-90b8eeb8f8c8)# Experiment-on-LCD-Display
+# Experiment-on-LCD-Display
 This is a small hardware project that uses Arduino and other modules to display names, numbers, and time. The time indicates how many minutes the Arduino has been running/started.
 
 **Description:**
@@ -30,10 +30,14 @@ The experiment on LCD displays serves as a gateway to understanding the intricac
    - Ensure the I2C module and the LCD display are properly aligned.
    - Solder the corresponding pins of the I2C module to the designated pins on the back of the LCD display. Typically, this involves connecting VCC to VCC, GND to GND, SDA to SDA, and SCL to SCL.
      
-![Connection-1](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Connection-2.png)
-![Connection-2](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Connection-1.png)
-![Connection-3](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Connection-3.jpg)
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-1.png" alt="Connection 1" width="400">
+    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-2.png" alt="Connection 2" width="400">
+</div>
 
+<div style="margin-bottom: 20px;">
+    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Connection-3.jpg" alt="Connection 3" width="800">
+</div>
 
 
 3. Connect the Arduino to your computer using the USB cable.
@@ -41,8 +45,16 @@ The experiment on LCD displays serves as a gateway to understanding the intricac
 **Output Images:**
 [Provide images showing the connections between the components and the output displayed on the LCD at different stages of the program execution.]
 
-![Output-1a](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-1a.jpg)![Output-1b](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-1b.jpg)
-![Output-2](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-2.jpg)
-![Output-3](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-3.jpg)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-1a.jpg" alt="Output 1a" width="400">
+    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-1b.jpg" alt="Output 1b" width="400">
+</div>
 
+<div style="margin-bottom: 20px;">
+    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-2.jpg" alt="Output 2" width="800">
+</div>
+
+<div>
+    <img src="https://github.com/its-AkshatJain/Experiment-on-LCD-Display/raw/main/images/Output-3.jpg" alt="Output 3" width="800">
+</div>
 By assembling these materials and embarking on this journey of exploration, participants will gain practical experience in interfacing LCD displays, mastering the art of data presentation, and unlocking new vistas of creativity and innovation in the realm of electronics and technology.
