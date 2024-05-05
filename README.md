@@ -32,7 +32,8 @@ The experiment on LCD displays serves as a gateway to understanding the intricac
      
 ![Connection-1](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Connection-2.png)
 ![Connection-2](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Connection-1.png)
-![Connection-3](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Connection-3.png)
+![Connection-3](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Connection-3.jpg)
+
 
 
 3. Connect the Arduino to your computer using the USB cable.
