@@ -1,4 +1,4 @@
-# Experiment-on-LCD-Display
+![image](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/assets/129594034/f4f0e2e1-61ea-417a-b9b8-90b8eeb8f8c8)# Experiment-on-LCD-Display
 This is a small hardware project that uses Arduino and other modules to display names, numbers, and time. The time indicates how many minutes the Arduino has been running/started.
 
 **Description:**
@@ -41,9 +41,8 @@ The experiment on LCD displays serves as a gateway to understanding the intricac
 **Output Images:**
 [Provide images showing the connections between the components and the output displayed on the LCD at different stages of the program execution.]
 
-![Output-1a](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-1a.png)
-![Output-1b](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-1b.png)
-![Output-2](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-2.png)
-![Output-3](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-3.png)
+![Output-1a](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-1a.jpg)![Output-1b](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-1b.jpg)
+![Output-2](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-2.jpg)
+![Output-3](https://github.com/its-AkshatJain/Experiment-on-LCD-Display/blob/main/images/Output-3.jpg)
 
 By assembling these materials and embarking on this journey of exploration, participants will gain practical experience in interfacing LCD displays, mastering the art of data presentation, and unlocking new vistas of creativity and innovation in the realm of electronics and technology.
