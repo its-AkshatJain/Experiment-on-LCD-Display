@@ -14,10 +14,23 @@ The experiment on LCD displays serves as a gateway to understanding the intricac
 5. USB Cable
 
 **Installation Guide:**
-1. Install Arduino SDK:
-   - Visit the official Arduino website: https://www.arduino.cc/
+1. **Install Arduino SDK:**
+   - Visit the official Arduino website: [https://www.arduino.cc/](https://www.arduino.cc/)
    - Download the Arduino IDE suitable for your operating system.
    - Follow the installation instructions provided on the website.
+
+2. **Download LiquidCrystal_I2C Library:**
+   - Visit the LiquidCrystal_I2C GitHub page.
+   - Click on "Code" and select "Download ZIP".
+   - Extract the ZIP file to obtain the library folder.
+
+3. **Install Library in Arduino IDE:**
+   - Open Arduino IDE.
+   - Go to **Sketch > Include Library > Add .ZIP Library...**
+   - Select the extracted ZIP file and click "Open".
+
+4. **Verify Installation:**
+   - Check under **Sketch > Include Library** for "LiquidCrystal_I2C".
 
 **Making Connections:**
 1. Connect the LCD Display to the Arduino:
